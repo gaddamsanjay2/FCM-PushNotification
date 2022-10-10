@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:text">SignIn</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="tv_notification">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:text">Send Notification</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+    <style name="edt_notification">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="btn_send">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:text">Send</item>
+        <item name="android:layout_margin">20dp</item>
+
+    </style>
+
+</resources>

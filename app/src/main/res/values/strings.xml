@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FCM PushNotification</string>
+    <string name="msg_token_fmt">FCM registration token %s</string>
+    <string name="default_notification_channel_id">fcm_default_channelID</string>
+    <string name="server_key">"AAAAShxhmBk:APA91bFQldJwOgnoTwP7anehWdTuUuiXuu-JPlTOtArgnl_6YOKEHlgQOPeiVLLY7XJdFfEOpuWpkqjn8x220araKt9uMF1rdaBupUCXKe7PyxqXEuzCGGISg-GvKKmh93mxNLfXG8EM"</string>
+
+</resources>
